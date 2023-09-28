@@ -4,7 +4,7 @@ I am a developer and undergraduate computer science student at UFPB - Paraíba, 
 
 - 💬 Ask me about .NET, backend API development, clean architecture, design patterns, unit test, integration tests...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedrojdev/) or pedrojdev@gmail.com
-- ⚡ Fun fact: I started programming when I was 13 years old. I like progressive rock and I have 3 cats that I love.
+- ⚡ Fun fact: I started programming when I was 13 years old (in 2013). I like progressive rock and I have 3 cats that I love.
 
 ## :hammer_and_wrench: Technical skills and tools
 
