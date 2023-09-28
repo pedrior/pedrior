@@ -6,7 +6,7 @@ I am a developer and undergraduate computer science student at UFPB - Paraíba, 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedrojdev/) or pedrojdev@gmail.com
 - ⚡ Fun fact: I started programming when I was 13 years old. I like progressive rock and I have 3 cats that I love.
 
-## :hammer_and_wrench: Technical skills
+## :hammer_and_wrench: Technical skills and tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&Color=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&Color=white)
