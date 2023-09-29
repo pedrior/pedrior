@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Pedro
 
-I am a developer and undergraduate computer science student at UFPB - Paraíba, Brazil with interests in backend API development, REST API, software architectures, design patterns, good programming practices and software testing.
+I am a developer and undergraduate computer science student at UFPB - Paraíba, Brazil with interests in backend API development, software architectures, design patterns, good programming practices and software testing.
 
 - 💬 Ask me about .NET, backend API development, clean architecture, design patterns, unit test, integration tests...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedrojdev/) or pedrojdev@gmail.com
