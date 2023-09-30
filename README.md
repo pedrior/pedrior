@@ -11,6 +11,7 @@ I am a developer and undergraduate computer science student at UFPB - Paraíba, 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&Color=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&Color=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&Color=white)
+![Python](https://img.shields.io/badge/Python-3F80B2.svg?style=for-the-badge&Color=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&Color=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&Color=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&Color=white)
