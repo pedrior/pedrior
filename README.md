@@ -2,9 +2,9 @@
 
 I am a developer and undergraduate computer science student at UFPB - Paraíba, Brazil with interests in backend API development, software architectures, design patterns, good programming practices and software testing.
 
-- 💬 Ask me about .NET, backend API development, clean architecture, design patterns, unit test, integration tests...
+- 💬 Ask me about .NET, backend development, clean architecture, design patterns...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedrojdev/) or pedrojdev@gmail.com
-- ⚡ Fun fact: I started programming when I was 13 years old (in 2013). I like progressive rock and I have 3 cats that I love.
+- ⚡ Fun fact: I started programming when I was 13 years old (in 2013).
 
 ## :hammer_and_wrench: Technical skills and tools
 
@@ -24,6 +24,9 @@ I am a developer and undergraduate computer science student at UFPB - Paraíba, 
 
 ## :chart_with_upwards_trend: GitHub stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrior&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrior&show_icons=true&theme=transparent" align="center">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrior&hide=m4,makefile&theme=transparent&size_weight=0.1&count_weight=1" align="center">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrior&hide=m4,makefile&theme=transparent&layout=compact&hide_progress=true)
