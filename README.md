@@ -2,7 +2,7 @@
 
 I'm a developer and undergraduate computer science student at UFPB (Paraíba, Brazil) interested in backend development. Currently, I am learning about software architectures, design patterns, programming best practices, and software testing.
 
-- 💬 Ask me about .NET, backend development, clean architecture, design patterns...
+- 💬 Ask me about .NET, backend development...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedrojdev/) or pedrojdev@gmail.com
 - ⚡ Fun fact: I started programming when I was 13 years old (in 2013).
 
