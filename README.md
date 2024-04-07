@@ -7,7 +7,7 @@ Sou um desenvolvedor apaixonado por programação, cursando Ciência da Computa�
 
 - 🔭 Atualmente, busco uma oportunidade para aplicar meus conhecimentos, aprender e crescer profissionalmente.
 - 🎯 Atualmente, estudando e praticando _Domain Driven Design_ (DDD), padrões arquiteturais e de projeto.
-- 📫 Como entrar em contato comigo: pedrojdev@gmail.com.
+- 📫 Como entrar em contato comigo: pedrojdev@gmail.com ou [LinkedIn](https://www.linkedin.com/in/pedrojdev).
 
 ### Alguns projetos que podem ser interessantes para você
 
