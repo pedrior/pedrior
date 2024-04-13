@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
 </div>
 
-Sou um desenvolvedor apaixonado por programação, cursando Ciência da Computação na UFPB e autodidata. Atualmente, estou direcionando meu foco no desenvolvimento de backend usando. Aqui você vai encontrar alguns projetos de APIs REST onde aplico padrões de projeto e arquiteturais, além disso, busco, na medida do meu conhecimento, aplicar boas práticas de programação.
+Sou um desenvolvedor apaixonado por programação, cursando Ciência da Computação na UFPB e autodidata. Atualmente, estou direcionando meu foco no desenvolvimento de backend. Aqui você encontrará projetos de APIs REST, bibliotecas e projetos acadêmicos.
 
 - 🔭 Atualmente, busco uma oportunidade para aplicar meus conhecimentos, aprender e crescer profissionalmente.
 - 🎯 Atualmente, estudando e praticando _Domain Driven Design_ (DDD), padrões arquiteturais e de projeto.
