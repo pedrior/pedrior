@@ -3,25 +3,10 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
 </div>
 
-Sou um desenvolvedor apaixonado por programação, cursando Ciência da Computação na UFPB e autodidata. Atualmente, estou direcionando meu foco no desenvolvimento de backend. Aqui você encontrará projetos de APIs REST, bibliotecas e projetos acadêmicos.
+Me chamo Pedro, sou aluno de graduação em Ciência da Computação pela UFPB e autodidata. Minhas principais áreas de interesse são desenvolvimento web backend, arquitetura de aplicações e boas práticas de programação. Tenho grande afinidade com programação em C#, especialmente na criação de APIs web em ASP.NET Core. Aqui você encontrará alguns projetos pessoais, incluindo APIs REST, bibliotecas e projetos acadêmicos.
 
-- 🔭 Atualmente, busco uma oportunidade para aplicar meus conhecimentos, aprender e crescer profissionalmente.
 - 🎯 Atualmente, estudando e praticando _Domain Driven Design_ (DDD), padrões arquiteturais e de projeto.
 - 📫 Como entrar em contato comigo: pedrojdev@gmail.com ou [LinkedIn](https://www.linkedin.com/in/pedrojdev).
-
-### Alguns projetos que podem ser interessantes para você
-
-#### [Projeto Eventify API](https://github.com/pedrior/eventify-api)
-
-Uma API REST de uma plataforma de eventos desenvolvida utilizando DDD, Arquitetura Limpa, CQRS, Repository Pattern, Unit Of Work, Result Pattern, testes unitários, EF Core, PostgreSQL, SEQ e Docker. Além disso, a API faz uso de alguns serviços da AWS: o Amazon S3 para armazenamento de objetos; e o Amazon Cognito para gerenciamento de usuários. A API também lida com segurança via JWT, versionamento, limitação de taxa, transações, logging.
-
-#### [Projeto Result Extensions](https://github.com/pedrior/result-extensions)
-
-Uma biblioteca que oferece um tipo de união discriminada com extensões fluentes para .NET. Ela também fornece suporte para ASP.NET Core, com extensões para lidar com respostas `IResult` e `IActionResult`. Além disso, há extensões disponíveis para a biblioteca FluentAssertions, tornando as verificações em testes mais fáceis. Você pode obter essa biblioteca através do _Nuget Package Manager_ nos seguintes links:
-
-- [ResultExtensions](https://www.nuget.org/packages/ResultExtensions)
-- [ResultExtensions.AspNetCore](https://www.nuget.org/packages/ResultExtensions.AspNetCore)
-- [ResultExtensions.FluentAssertions](https://www.nuget.org/packages/ResultExtensions.FluentAssertions)
 
 ### Algumas linguagens e ferramentes que tenho experiência
 
