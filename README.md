@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
 </div>
 
-Me chamo Pedro, sou aluno de graduação em Ciência da Computação pela UFPB e autodidata. Minhas principais áreas de interesse são desenvolvimento web backend, arquitetura de aplicações e boas práticas de programação. Tenho grande afinidade com programação em C#, especialmente na criação de APIs web em ASP.NET Core. Aqui você encontrará alguns projetos pessoais, incluindo APIs REST, bibliotecas e projetos acadêmicos.
+Sou aluno de graduação em Ciência da Computação pela UFPB e autodidata. Minhas principais áreas de interesse são desenvolvimento web backend, arquitetura de aplicações e boas práticas de programação. Tenho grande afinidade com programação em C#, especialmente na criação de APIs web em ASP.NET Core. Aqui você encontrará alguns projetos pessoais, incluindo APIs REST, bibliotecas e projetos acadêmicos.
 
 - 🎯 Atualmente, estudando e praticando _Domain Driven Design_ (DDD), padrões arquiteturais e de projeto.
 - 📫 Como entrar em contato comigo: pedrojdev@gmail.com ou [LinkedIn](https://www.linkedin.com/in/pedrojdev).
