@@ -5,7 +5,7 @@
 
 Sou desenvolvedor e estudante de Ciência da Computação, focando principalmente em C#/.NET. Tenho interesse em desenvolvimento backend, arquitetura de software, design e boas práticas.
 
-- 🎯 Atualmente, estudando e praticando _Domain Driven Design_ (DDD), padrões arquiteturais e de projeto.
+- 🎯 Atualmente, estudando _Domain Driven Design_ (DDD), sofrendo na faculdade e buscando um job :)
 - 📫 Como entrar em contato comigo: pedrojdev@gmail.com ou [LinkedIn](https://www.linkedin.com/in/pedrojdev).
 
 ### Algumas linguagens e ferramentes que tenho experiência
