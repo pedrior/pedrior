@@ -32,7 +32,7 @@ Sou desenvolvedor e estudante de Ciência da Computação, focando principalment
 ![SOLID](https://img.shields.io/badge/SOLID-FF0800?style=for-the-badge)
 ![DDD](https://img.shields.io/badge/DDD-FFA500F?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS-F2003C?style=for-the-badge)
-![Arquitetura Limpa](https://img.shields.io/badge/Arquitetura%20Limpa-007FFF?style=for-the-badge)
+![Arquitetura](https://img.shields.io/badge/Arquitetura%20Limpa-007FFF?style=for-the-badge)
 ![Padrões de Projeto](https://img.shields.io/badge/Padrões%20de%20Projeto-3B00DB?style=for-the-badge)
 ![Testes Unitários](https://img.shields.io/badge/Testes%20Unitarios-114B5F?style=for-the-badge)
 
