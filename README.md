@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
 </div>
 
-Sou desenvolvedor e estudante de Ciência da Computação, focando principalmente em C#/.NET. Tenho interesse em desenvolvimento backend, arquitetura de software, design e boas práticas.
+Sou desenvolvedor e estudante de Ciência da Computação, atualmente focando em C#/.NET. Tenho interesse em desenvolvimento backend, arquitetura de software, design e boas práticas de programação.
 
 - 🎯 Atualmente, estudando _Domain Driven Design_ (DDD), sofrendo na faculdade e buscando um job :)
 - 📫 Como entrar em contato comigo: pedrojdev@gmail.com ou [LinkedIn](https://www.linkedin.com/in/pedrojdev).
