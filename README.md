@@ -36,8 +36,3 @@ Sou desenvolvedor e estudante de Ciência da Computação, atualmente focando em
 ![Padrões de Projeto](https://img.shields.io/badge/Padrões%20de%20Projeto-3B00DB?style=for-the-badge)
 ![Testes de Unidade](https://img.shields.io/badge/Testes%20Unitarios-114B5F?style=for-the-badge)
 ![Testes de Integração](https://img.shields.io/badge/Testes%20de%20Integração-2364aa?style=for-the-badge)
-
-### GitHub Stats
-
-![Pedriors's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrior&show_icons=true&theme=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrior&hide=jupyter%20notebook&layout=compact)
