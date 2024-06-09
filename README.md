@@ -8,7 +8,7 @@ Sou desenvolvedor e estudante de Ciência da Computação, atualmente focando em
 - 🎯 Atualmente, buscando um job :)
 - 📫 Como entrar em contato comigo: pedrojdev@gmail.com ou [LinkedIn](https://www.linkedin.com/in/pedrojdev).
 
-### Algumas linguagens e ferramentes que tenho experiência
+### Minhas experiências
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,9 +29,6 @@ Sou desenvolvedor e estudante de Ciência da Computação, atualmente focando em
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Outras experiências
-
 ![SOLID](https://img.shields.io/badge/SOLID-ea7317?style=for-the-badge)
 ![DDD](https://img.shields.io/badge/DDD-3da5d9?style=for-the-badge)
 ![Padrões Arquiteturais](https://img.shields.io/badge/Padrões%20Arquiteturais-007FFF?style=for-the-badge)
