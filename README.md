@@ -11,8 +11,8 @@ Sou desenvolvedor e estudante de Ciência da Computação, atualmente focado em 
 
 #### [Motorent - Aluguel de Motos](https://github.com/pedrior/motorent-aluguel-de-motos)
 
-O Motorent é uma API REST para gerenciar aluguel de motos. Este projeto foi desenvolvido com **ASP.NET Core, EF Core, PostgreSQL, Docker/Docker Compose, RabbitMQ, MassTransit, Arquitetura Limpa, DDD, CQRS, Testes de Unidade, Testes de Integração, boas práticas de programação e outras tecnologias e padrões**.
+O Motorent é um sistema para gerenciar aluguel de motos. Este projeto foi desenvolvido com **ASP.NET Core, REST API, EF Core, PostgreSQL, Docker/Docker Compose, RabbitMQ, MassTransit, Arquitetura Limpa, DDD, CQRS, Testes de Unidade, Testes de Integração, boas práticas de programação e outras tecnologias e padrões**.
 
 #### [Eventify - Reserva de Eventos](https://github.com/pedrior/eventify-api)
 
-O Eventify é uma PI REST de plataforma de eventos onde os produtores podem criar e gerir eventos. Participantes podem procurar eventos e fazer reserva comprando bilhetes. **Criada usando ASP.NET Core, EF Core, PostgreSQL, AWS, Arquitetura limpa, DDD, CQRS e outras tecnologias**.
+O Eventify é uma de plataforma de eventos onde os produtores podem criar e gerir eventos. Participantes podem procurar eventos e fazer reserva comprando bilhetes. Este projeto foi desenvolvido com **ASP.NET Core, REST API, EF Core, PostgreSQL, AWS, Arquitetura limpa, DDD, CQRS e outras tecnologias**.
