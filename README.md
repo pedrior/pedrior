@@ -1,3 +1,5 @@
-# Olá 👋
+# Hi there, I'm Pedro 👋
 
-I'm Pedro, a backend developer based in Paraíba, Brazil 🇧🇷.
+A .NET developer based in Paraíba, Brazil. 
+
+I'm very interested in backend API development and desktop development. I'm also interested in good programming practices, design patterns and unit and integration testing.
