@@ -2,6 +2,6 @@
 
 A .NET developer and CS student based in Brazil.
 
-Lately, I've been focusing on backend API development, emphasizing design and architectural patterns. 
-I'm hugely interested in best programming practices and I try to write good and efficient code whenever possible.
-I'm also interested in desktop development.
+Graduating in Computer Science from UFPB. Passionate about programming since age 16. 
+I have experience in backend development of RESTful APIs and desktop applications. 
+I'm also very interested in software quality, design patterns, software testing and good practices.
